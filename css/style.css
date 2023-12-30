@@ -1,0 +1,48 @@
+body{
+    background-color: #24353F;
+    font-family: 'Titillium Web',sans-serif;
+  
+}
+.navbar{
+    background-color: #24353F ;
+   
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
+.navbar-toggler-icon{
+   color: white !important;
+}
+.login{
+    background-color: #24353F;
+   
+   box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
+.login h1,.home h1{
+    color: #17A2B8;
+     font-family: inherit;
+    font-weight: 500 !important; 
+}
+
+.form-control{
+    color: #ced4da !important;
+    border-color: rgb(206, 212, 218);
+    box-shadow:none !important;
+}
+::placeholder {
+    color: #ced4da !important;
+   font-family: Arial, Helvetica, sans-serif, Times, serif;
+}
+button{
+    font-weight: 400;
+  
+}
+.home{
+    background-color: #24353F ;
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+    transform: translateY(50%);
+}
+.signin{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
